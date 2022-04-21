@@ -16,3 +16,6 @@ server:
 
 # Internationalization
 spring.messages.basename: messages/messages
+
+test:
+  val2: 1
